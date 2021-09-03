@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\DELL\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\DELL\source\repos\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\DELL\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\DELL\source\repos\Hotel\Hotel\obj\Debug\Hotel.pdb
